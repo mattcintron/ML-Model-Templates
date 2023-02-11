@@ -1,4 +1,4 @@
-#AI ML Templates
+# AI ML Templates
 
 A collection of AI/ML templates for various applications including Classification, NLP, Neural Networks, PCA, and Clustering.
 
